@@ -1,0 +1,6 @@
+text
+click==8.1.7
+SQLAlchemy==2.0.22
+alembic==1.11.1
+python-dateutil==2.8.2
+pytest==7.4.0
